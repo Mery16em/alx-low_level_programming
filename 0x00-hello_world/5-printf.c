@@ -1,6 +1,9 @@
 #include <stdio.h>
 /*
- * No description found for function main
+* main - Entry point of the program
+*
+* This function prints a message with proper grammar and formatting.
+* It returns 0 upon successful execution.
 */
 int main(void)
 {
