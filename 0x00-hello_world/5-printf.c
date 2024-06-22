@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("Art, but the outcome is a masterpiece.\n");
+    printf("with proper grammar, but the outcome is a piece of art\n");
     return 0;
 
 }
