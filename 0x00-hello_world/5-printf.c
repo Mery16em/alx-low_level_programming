@@ -3,9 +3,8 @@
 /**
 * main - Entry point of the program
 * This function prints a message with proper grammar and formatting.
-* Return: 0 if success 
+* Return: 0 if success
 */
-
 int main(void)
 {
 /*
