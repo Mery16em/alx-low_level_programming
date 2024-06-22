@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* Main function to print a proper grammar message */
 int main(void)
 {
 /* Print the message with proper grammar and formatting */
