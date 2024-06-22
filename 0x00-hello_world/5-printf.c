@@ -1,5 +1,7 @@
 #include <stdio.h>
-/* Main function to print a proper grammar message */
+/*
+ * No description found for function main
+*/
 int main(void)
 {
 /* Print the message with proper grammar and formatting */
