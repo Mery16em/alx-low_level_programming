@@ -1,15 +1,12 @@
-#include <stdio.h>
-
-int add(int a, int b);
-/*
-*  Declaration of the add function
-*/
-int main(void)
+/**
+ * add - Adds two integers and returns the result.
+ * @a: First integer operand.
+ * @b: Second integer operand.
+ *
+ * Return: The sum of a and b.
+ */
+int add(int a, int b)
 {
-int result;
-
-result = add(5, 7);
-printf("Result: %d\n", result);
-
-return (0);
+return (a + b);
 }
+
