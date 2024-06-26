@@ -1,7 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* You can add declarations or macros here if needed */
+int _putchar(char c);
+void print_alphabet(void);
+
+/* Other function prototypes can go here if needed */
 
 #endif /* MAIN_H */
 
