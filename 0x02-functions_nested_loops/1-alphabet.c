@@ -14,4 +14,3 @@ letter++;
 }
 _putchar('\n');
 }
-i
