@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include "main.h"
-
-/* program to dispay putchar
-* */
+/**
+ * main - Entry point of the program
+ *
+ * This function prints "_putchar" followed by a newline and returns 0.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 printf("_putchar\n");
