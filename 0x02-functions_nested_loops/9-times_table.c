@@ -22,4 +22,3 @@ printf(", %2d", i * j); /* Print comma and space */
 printf("\n"); /* Move to the next line after each row is printed */
 }
 }
-
