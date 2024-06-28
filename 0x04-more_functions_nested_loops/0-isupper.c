@@ -1,24 +1,14 @@
-/*
- * Function: isupper
- * ----------------------------
- *   Checks if a character is an uppercase letter.
+/**
+ * _isupper - checks if a character is an uppercase letter.
+ * @c: the character to be checked.
  *
- *   c: the character to be checked.
+ * Description: This function takes a single character and checks if it
+ * is an uppercase letter (A through Z). If it is, the function returns 1;
+ * otherwise, it returns 0.
  *
- *   returns: 1 if the character is uppercase, 0 otherwise.
+ * Return: 1 if the character is uppercase, 0 otherwise.
  */
-
 int _isupper(int c)
-
-/*
- * Function: isupper
- * ----------------------------
- *   Checks if a character is an uppercase letter.
- *
- *   c: the character to be checked.
- *
- *   returns: 1 if the character is uppercase, 0 otherwise.
- */
 {
 if (c >= 'A' && c <= 'Z')
 {
@@ -29,3 +19,4 @@ else
 return (0);
 }
 }
+
