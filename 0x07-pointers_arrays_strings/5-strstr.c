@@ -28,8 +28,7 @@ char *_strstr(char *haystack, char *needle)
 	unsigned int len;
 	/*Get length of needle for strncmp*/
 	len = 0;
-	while (needle[len] != '\0')
-		len++;
+	while (needle[len] 
 	/*compare substring*/
 	while (*haystack != '\0')
 	{
