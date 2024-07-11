@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/**
+  * Return: 1 if n is a prime, else return 0 otherwise.
+  */
 int checker(int n, int base)
 {
 	if (base % n == 0 || base < 2)
