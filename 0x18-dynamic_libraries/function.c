@@ -3,6 +3,7 @@
 int _putchar(char c) { (void)c; return 0; }
 int _islower(int c) { (void)c; return 0; }
 int _isalpha(int c) { (void)c; return 0; }
+int _abs(int c) { (void)c; return 0; }
 int _isupper(int c) { (void)c; return 0; }
 int _isdigit(int c) { (void)c; return 0; }
 void _puts(char *s) { (void)s; }
@@ -18,4 +19,4 @@ char *_strchr(char *s, char c) { (void)c; return s; }
 unsigned int _strspn(char *s, char *accept) { (void)s; (void)accept; return 0; }
 char *_strpbrk(char *s, char *accept) { (void)accept; return s; }
 char *_strstr(char *haystack, char *needle) { (void)needle; return haystack; }
-
+int _strlen(char *s) { (void)s; return 0; }
